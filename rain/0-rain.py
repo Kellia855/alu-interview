@@ -5,6 +5,7 @@ Contains the rain(walls) function that calculates
 how much rainwater can be retained between walls.
 """
 
+
 def rain(walls):
     """
     Calculate how many square units of water will be retained.
